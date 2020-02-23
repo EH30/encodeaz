@@ -1,3 +1,4 @@
+#Created by EH30
 class azencode:
 
     def encode(self, text, loops=10):
